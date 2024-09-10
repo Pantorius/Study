@@ -1,1 +1,8 @@
-.bin
+# Specified types
+*.exe
+*.bin
+
+# Folders
+bin/*
+obj/*
+.vs/*
