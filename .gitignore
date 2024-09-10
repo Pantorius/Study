@@ -3,7 +3,7 @@
 *.bin
 
 # Folders
-bin/*
-obj/*
-.vs/*
-res/*
+bin/
+obj/
+.vs/
+res/
